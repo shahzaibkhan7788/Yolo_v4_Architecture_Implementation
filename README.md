@@ -1,4 +1,5 @@
 Key Highlights of the YOLOv4 Implementation:
+
 Here  have implemented the Backbone of Yolov2 called Darknet_19 containing 19 layers, yolov3 Darknet53 and yolov4 Full architecture Implementations
 Backbone (CSP-Darknet53):
 
